@@ -9,7 +9,6 @@ end
 def add_element_to_end_of_array(array, element)
  array_of_words = ["blank", "this", "copy", "that"]
  array_of_words.push("pool")
-
 end
 
 def add_element_to_start_of_array(array, element)
